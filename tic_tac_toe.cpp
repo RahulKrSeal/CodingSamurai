@@ -25,7 +25,7 @@ void displayBoard() {
         }
         cout << endl;
         if (i < ROWS - 1) {
-            cout << "------------" << endl;
+            cout << "-----------" << endl;
         }
     }
 }
